@@ -1,10 +1,10 @@
 ## Model
 
-This is an implementation of a character-level convolutional networks (ConvNets) for text classification on MNIST dataset.
+This is an implementation of a character-level convolutional networks (ConvNets) for text classification.
 
 ### Instructions
 ```
-python character/train.py -e 20
+python character/train.py
 ```
 ## Citation
 ```
